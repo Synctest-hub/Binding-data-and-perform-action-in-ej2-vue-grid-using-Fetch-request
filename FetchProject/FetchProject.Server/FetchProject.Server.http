@@ -1,0 +1,6 @@
+@FetchProject.Server_HostAddress = http://localhost:5210
+
+GET {{FetchProject.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
